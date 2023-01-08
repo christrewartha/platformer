@@ -11,5 +11,6 @@ Looking at the code a bit more, I don't love the way the scrolling is done. The 
 
 I think I'll implement some motion which has a bit more intertia/momentum, then look at splitting out the movement and scrolling logic. I don't think game objects should care what the camera is looking at.
 
-Nice to discover "Tiled" by following this tutorial!
+Nice to discover "Tiled" by following this tutorial - https://www.mapeditor.org/
+
  
